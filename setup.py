@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='cal_fibonacci',
+    name='calculate_fibonacci',
     version='0.0.1',
     description='A very basic fibonacci calculator',
     url='https://github.com/siddheshsagar/fibo-pkg-repo.git',
