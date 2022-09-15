@@ -43,6 +43,12 @@ setup(
         'ci': extra_ci,
     },
     
+    entry_points={
+        'console_scripts': [
+            'add=calculate_fibonacci.math:calculate_fibonacci',
+        ],
+    },
+    
     classifiers=[
         'Intended Audience :: Developers',
 
