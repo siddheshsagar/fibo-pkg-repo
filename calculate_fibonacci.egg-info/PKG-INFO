@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: calculate-fibonacci
-Version: 0.0.1
-Summary: A very basic fibonacci calculator
-Home-page: https://github.com/siddheshsagar/fibo-pkg-repo.git
-Author: Siddhesh Sagar
-Author-email: siddheshsagar3182001@gmail.com
-License: MIT
-License-File: LICENSE.txt
