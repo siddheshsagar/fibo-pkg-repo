@@ -4,7 +4,7 @@ setup(
     name='calculate_fibonacci',
     version='0.0.1',
     description='A very basic fibonacci calculator',
-    url='https://github.com/siddheshsagar/fibo-pkg-repo',
+    url='https://github.com/siddheshsagar/fibo-pkg-repo.git',
     author='Siddhesh Sagar',
     author_email='siddheshsagar3182001@gmail.com',
     license='MIT',
